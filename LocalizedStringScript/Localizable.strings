@@ -1,0 +1,21 @@
+//
+//  Localizable.swift
+//  Infinity
+//
+//  Created by Phan Viet Trung on 20/Aug/2022.
+//  Copyright 2022 @Dwarves Foundation. All rights reserved.
+//
+
+/* This file is auto-generated. Do not edit. */
+
+//Feature1Localize//
+"1" = "1";
+"2" = "2";
+"3" = "3";
+
+//Feature2SubFolderLocalize//
+"a" = "a";
+"b" = "b";
+"c" = "c";
+"def" = "def";
+"ghk" = "ghk";

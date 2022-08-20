@@ -6,7 +6,7 @@ Support multiple *.strings files in XCode project.
 
 Using swift script to merge sub  *.strings file into Localizable.strings.
 
-How to use:
+## How to use:
 Create your XCode project
 Copy scripts folder to your main project folder or modify script to point to script folder.
 Create main Localizable.strings file.

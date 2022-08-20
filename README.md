@@ -18,3 +18,6 @@ ${PROJECT_DIR}/scripts/generateLocalizableFile.sh ${PROJECT_DIR}
 
 ```
 Press cmd + B to trigger prebuild.
+
+Switch to "Report Navigator" (cmd + 9) tab and select Top "Build" to see the output.
+<img width="1680" alt="Screenshot 2022-08-20 at 21 31 20" src="https://user-images.githubusercontent.com/35858359/185751535-faeea5e5-9d7a-4111-aba4-3d41c1c87ea8.png">
